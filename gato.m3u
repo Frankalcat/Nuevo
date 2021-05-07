@@ -2,20 +2,23 @@
 #EXTINF:-1, Caracoltv 
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 
-#EXTINF:-1, RCN 
-https://live.televisiongratishd.com/8646728e-4a07-4eec-a364-90ecd14cdc5b
-
 #EXTINF:-1, ESPN
-https://amolq9qnvwojvcta.uzcdn828.net:8443/hls/uezpfjf.m3u8?s=sbmG02K6D11HtlpW3xXpkA&e=1620352778
+https://amolq9qnvwojvcta.uzcdn828.net:8443/hls/uezpfjf.m3u8?s=kEi0Aydls6RCHSVzf7lsaw&e=1620435740
 
-#EXTINF:-1 ESPN 3
-https://amolq9qnvwojvcta.uzcdn828.net:8443/hls/edtr7m7iwpvt2.m3u8?s=IoUF7RJ5QiQHFeB6-Wwgbg&e=1620353340
+#EXTINF:-1, ESPN3
+https://amolq9qnvwojvcta.uzcdn828.net:8443/hls/edtr7m7iwpvt2.m3u8?s=fdl92QbODe5azWxQ6OtoFQ&e=1620435946
 
-#EXTINF:-1 FOX SPORT 2
-https://amolq9qnvwojvcta.uzcdn828.net:8443/hls/9szg79sf.m3u8?s=7tXt7PinxDV-LdSNOSYj7g&e=1620354299
+#EXTINF:-1, FOXSPORT
+https://amolq9qnvwojvcta.uzcdn828.net:8443/hls/yodsbtspkxcb04i.m3u8?s=7aDpsQ5Hay1eLwL7YyAgdA&e=1620434435
 
-#EXTINF:0 type="stream" channelId="-1", Discovery Channel
-http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
+#EXTINF:-1, A&E
+https://amolq9qnvwojvcta.uzcdn828.net:8443/hls/9x6plau.m3u8?s=TTyRoPBkLyagcoUiutWOvA&e=1620433715
 
-#EXTINF:-1 tvg-logo="https://goo.gl/nxxEMk" group-title="VARIEDADES", DW
-http://dwstream3-lh.akamaihd.net:80/i/dwstream3_live@124409/index_1_av-p.m3u8
+#EXTINF:-1, FOXSPORT2
+https://amolq9qnvwojvcta.uzcdn828.net:8443/hls/9szg79sf.m3u8?s=CpKI-I6MttBrmlfcaJz8ew&e=1620435428
+
+#EXTINF:-1, TUDN
+https://amolq9qnvwojvcta.uzcdn828.net:8443/hls/u70fzvml6.m3u8?s=EFJdQkuyIQKj88BpAFg_YQ&e=1620436053
+
+#EXTINF:-1, STARACTION
+https://amolq9qnvwojvcta.uzcdn828.net:8443/hls/haz4bzbdho7ca.m3u8?s=4OBt4rTpFv_DHgkv12bPIA&e=1620436269
