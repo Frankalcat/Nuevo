@@ -1,24 +1,47 @@
 #EXTM3U
-#EXTINF:-1, Caracoltv 
-https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
-
-#EXTINF:-1, ESPN
-https://amolq9qnvwojvcta.uzcdn828.net:8443/hls/uezpfjf.m3u8?s=kEi0Aydls6RCHSVzf7lsaw&e=1620435740
-
-#EXTINF:-1, ESPN3
-https://amolq9qnvwojvcta.uzcdn828.net:8443/hls/edtr7m7iwpvt2.m3u8?s=fdl92QbODe5azWxQ6OtoFQ&e=1620435946
-
-#EXTINF:-1, FOXSPORT
-https://amolq9qnvwojvcta.uzcdn828.net:8443/hls/yodsbtspkxcb04i.m3u8?s=7aDpsQ5Hay1eLwL7YyAgdA&e=1620434435
-
-#EXTINF:-1, A&E
-https://amolq9qnvwojvcta.uzcdn828.net:8443/hls/9x6plau.m3u8?s=TTyRoPBkLyagcoUiutWOvA&e=1620433715
-
-#EXTINF:-1, FOXSPORT2
-https://amolq9qnvwojvcta.uzcdn828.net:8443/hls/9szg79sf.m3u8?s=CpKI-I6MttBrmlfcaJz8ew&e=1620435428
-
-#EXTINF:-1, TUDN
-https://amolq9qnvwojvcta.uzcdn828.net:8443/hls/u70fzvml6.m3u8?s=EFJdQkuyIQKj88BpAFg_YQ&e=1620436053
-
-#EXTINF:-1, STARACTION
-https://amolq9qnvwojvcta.uzcdn828.net:8443/hls/haz4bzbdho7ca.m3u8?s=4OBt4rTpFv_DHgkv12bPIA&e=1620436269
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name="Caracol" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="",Caracol (720p)
+https://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
+#EXTINF:-1 tvg-id="RCNHD.co" tvg-name="RCN HD" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1200px-Canal_RCN_logo.svg.png" group-title="",RCN HD
+http://saypopular.com:25461/oscar/20gar/52262
+#EXTINF:-1 tvg-id="SenalColombiaHD.co" tvg-name="Senal Colombia HD" tvg-country="CO" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBImyfiXK1eEyhfMws20HDX-aZmtpx5Kzeag&usqp=CAU" group-title="",Senal Colombia HD
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-name="Win Sports+" tvg-country="CO" tvg-language="" tvg-logo="" group-title="Sport",Win Sports+
+http://saypopular.com:25461/oscar/20gar/52853
+#EXTINF:-1 tvg-id="DWLatinoAmerica.de" tvg-name="DW Latino America" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/N8ueokL.gif" group-title="",DW Latino America
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+#EXTINF:-1 tvg-id="PromarTV.ve" tvg-name="Promar TV" tvg-country="VE" tvg-language="" tvg-logo="" group-title="",Promar TV
+http://vcp1.myplaytv.com:1935/promar/promar/chunklist_w850287837.m3u8
+#EXTINF:-1 tvg-id="TelevenTVVenezuela.ve" tvg-name="Televen TV Venezuela" tvg-country="VE" tvg-language="" tvg-logo="" group-title="",Televen TV Venezuela
+https://cloud.streamingconnect.tv:455/televen/televenweb.m3u8
+#EXTINF:-1 tvg-id="VepacoTV.ve" tvg-name="Vepaco TV" tvg-country="VE" tvg-language="Spanish" tvg-logo="" group-title="",Vepaco TV (486p)
+http://vcp1.myplaytv.com:1935/tvepaco/tvepaco/playlist.m3u8
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="24/7 Canal de Noticias" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/6miysb8.png" group-title="News",24/7 Canal de Noticias
+https://panel.dattalive.com/6605140/6605140/chunklist_w1813443749.m3u8
+#EXTINF:-1 tvg-id="Telemax.ar" tvg-name="Telemax" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/1XgRcmd.png" group-title="",Telemax (720p)
+https://live-edge01.telecentro.net.ar/live/tlxhd-720/master.m3u8
+#EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png" group-title="Sport",Claro Sports (1080p)
+https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
+#EXTINF:-1 tvg-id="404StingrayGreatestHits.ca" tvg-name="404 Stingray Greatest Hits" tvg-country="CA" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="",404 Stingray Greatest Hits
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/155/master.m3u8
+#EXTINF:-1 tvg-id="405StingrayHitList.ca" tvg-name="405 Stingray Hit List" tvg-country="CA" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="",405 Stingray Hit List
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/107/master.m3u8
+#EXTINF:-1 tvg-id="406StingrayClassicRock.ca" tvg-name="406 Stingray Classic Rock" tvg-country="CA" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="",406 Stingray Classic Rock
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/101/master.m3u8
+#EXTINF:-1 tvg-id="407StingrayRockAlternative.ca" tvg-name="407 Stingray Rock Alternative" tvg-country="CA" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="",407 Stingray Rock Alternative
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/102/master.m3u8
+#EXTINF:-1 tvg-id="408StingrayPopAdult.ca" tvg-name="408 Stingray Pop Adult" tvg-country="CA" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="",408 Stingray Pop Adult
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/104/master.m3u8
+#EXTINF:-1 tvg-id="409StingrayUrbanBeat.ca" tvg-name="409 Stingray Urban Beat" tvg-country="CA" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="",409 Stingray Urban Beat
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/133/master.m3u8
+#EXTINF:-1 tvg-id="410StingrayHotCountry.ca" tvg-name="410 Stingray Hot Country" tvg-country="CA" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="",410 Stingray Hot Country
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/108/master.m3u8
+#EXTINF:-1 tvg-id="411StingrayFlashback70s.ca" tvg-name="411 Stingray Flashback 70s" tvg-country="CA" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="",411 Stingray Flashback 70s
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8
+#EXTINF:-1 tvg-id="412StingrayEverything80s.ca" tvg-name="412 Stingray Everything 80s" tvg-country="CA" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="",412 Stingray Everything 80s
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/128/master.m3u8
+#EXTINF:-1 tvg-id="413StingrayTodaysLatinPop.ca" tvg-name="413 Stingray Today's Latin Pop" tvg-country="CA" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="",413 Stingray Today's Latin Pop
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/190/master.m3u8
+#EXTINF:-1 tvg-id="475630" tvg-name="Estrella_TV" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/4PiLKrm.png" group-title="",Estrella TV
+https://estrellatv-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",VH1 CLASSIC
+http://mfe.cliptv.az/dash/VH1_Classic_SD.ism/playlist.mpd
