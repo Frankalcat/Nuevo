@@ -5,8 +5,6 @@ https://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
 http://saypopular.com:25461/oscar/20gar/52262
 #EXTINF:-1 tvg-id="SenalColombiaHD.co" tvg-name="Senal Colombia HD" tvg-country="CO" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBImyfiXK1eEyhfMws20HDX-aZmtpx5Kzeag&usqp=CAU" group-title="",Senal Colombia HD
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-name="Win Sports+" tvg-country="CO" tvg-language="" tvg-logo="" group-title="Sport",Win Sports+
-http://saypopular.com:25461/oscar/20gar/52853
 #EXTINF:-1 tvg-id="DWLatinoAmerica.de" tvg-name="DW Latino America" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/N8ueokL.gif" group-title="",DW Latino America
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 #EXTINF:-1 tvg-id="PromarTV.ve" tvg-name="Promar TV" tvg-country="VE" tvg-language="" tvg-logo="" group-title="",Promar TV
@@ -19,8 +17,6 @@ http://vcp1.myplaytv.com:1935/tvepaco/tvepaco/playlist.m3u8
 https://panel.dattalive.com/6605140/6605140/chunklist_w1813443749.m3u8
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-name="Telemax" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/1XgRcmd.png" group-title="",Telemax (720p)
 https://live-edge01.telecentro.net.ar/live/tlxhd-720/master.m3u8
-#EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png" group-title="Sport",Claro Sports (1080p)
-https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
 #EXTINF:-1 tvg-id="404StingrayGreatestHits.ca" tvg-name="404 Stingray Greatest Hits" tvg-country="CA" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="",404 Stingray Greatest Hits
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/155/master.m3u8
 #EXTINF:-1 tvg-id="405StingrayHitList.ca" tvg-name="405 Stingray Hit List" tvg-country="CA" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="",405 Stingray Hit List
@@ -221,6 +217,12 @@ http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=tudnmx&f=.m3u8
 http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=tudnus&f=.m3u8
 #EXTINF:-1  group-title="Lista TV", TVC DEPORTES
 http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=tvcdep&f=.m3u8
+#EXTINF:-1  group-title="Lista TV", MeridianoTv
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1620707721/ei/KbWZYPDRGLqZzLUPh8GBiAg/ip/190.85.157.209/id/AwvkNttD9yc.1/source/yt_live_broadcast/requiressl/yes/tx/24027399/txs/24027395%2C24027396%2C24027397%2C24027398%2C24027399%2C24027400/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPugCN-0mSzOfYLCWRHBJIeKyIQeLpSZocbJpBDjqvPkAiEA5hkhzv9LMkVVDJ4H76HTCy_-YNz8xt3L59Va49zLu5c%3D/file/index.m3u8
+#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-name="Win Sports+" tvg-country="CO" tvg-language="" tvg-logo="" group-title="Sport",Win Sports+
+http://saypopular.com:25461/oscar/20gar/52853
+#EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png" group-title="Sport",Claro Sports (1080p)
+https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
 #EXTINF:-1  group-title="Lista TV", BOOMERANG
 http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=boomerang&f=.m3u8
 #EXTINF:-1  group-title="Lista TV", CARTOON NETWORK
@@ -243,5 +245,3 @@ http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=nickjr&f=.m3u8
 http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=teennick&f=.m3u8
 #EXTINF:-1  group-title="Lista TV", TOONCAST
 http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=tooncast&f=.m3u8
-#EXTINF:-1  group-title="Lista TV", MeridianoTv
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1620707721/ei/KbWZYPDRGLqZzLUPh8GBiAg/ip/190.85.157.209/id/AwvkNttD9yc.1/source/yt_live_broadcast/requiressl/yes/tx/24027399/txs/24027395%2C24027396%2C24027397%2C24027398%2C24027399%2C24027400/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPugCN-0mSzOfYLCWRHBJIeKyIQeLpSZocbJpBDjqvPkAiEA5hkhzv9LMkVVDJ4H76HTCy_-YNz8xt3L59Va49zLu5c%3D/file/index.m3u8
